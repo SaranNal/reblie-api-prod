@@ -9,7 +9,8 @@ phases:
       - echo Logging in to Amazon ECR...
       - aws --version
       - $(aws ecr get-login --region us-east-1 --no-include-email)
-      - REPOSITORY_URI=170981889969.dkr.ecr.us-east-1.amazonaws.com/reblie-api
+      - REPOSITORY_URI=484537496937.dkr.ecr.us-east-1.amazonaws.com/reblie-api
+      # - REPOSITORY_URI=729047448122.dkr.ecr.us-east-1.amazonaws.com/reblie-api-development
       - if echo $CODEBUILD_INITIATOR | grep -qe "-development$"; then REPOSITORY_URI=$REPOSITORY_URI-development;ENV_TYPE=development;fi;
       - if echo $CODEBUILD_INITIATOR | grep -qe "-staging$"; then REPOSITORY_URI=$REPOSITORY_URI-staging;ENV_TYPE=staging;fi;
       - if echo $CODEBUILD_INITIATOR | grep -qe "-production$"; then REPOSITORY_URI=$REPOSITORY_URI-production;ENV_TYPE=production;fi;
@@ -32,6 +33,6 @@ phases:
       - docker push $REPOSITORY_URI:latest
       - docker push $REPOSITORY_URI:$IMAGE_TAG
       - echo Writing image definitions file...
-      - printf '[{"name":"reblie-api-$ENV_TYPE","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json
+      - printf '[{"name":"reblie-api-production","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json
 artifacts:
     files: imagedefinitions.json
