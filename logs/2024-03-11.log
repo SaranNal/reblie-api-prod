@@ -1,0 +1,16 @@
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T07:14:25.382Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:09:49.307Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:11:51.172Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-11T09:11:51.208Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:12:27.378Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-11T09:12:27.397Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:12:28.659Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-11T09:12:28.669Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:12:29.803Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-11T09:12:29.808Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:12:30.752Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-11T09:12:30.756Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:12:31.659Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-11T09:12:31.666Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-11T09:13:02.675Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Login Success!\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNiY2FiYWIwLTYxMjctNGY1ZC1iMjA3LWUzYjI3OTQ1MmI2ZSIsImVtYWlsIjoic3VwZXJhZG1pbkByZWJsaWUuY29tIiwibmFtZSI6InN1cGVyIiwiZXhwaXJlZERheXMiOiIxbSIsImlhdCI6MTcxMDE0ODM4MiwiZXhwIjoxNzEwMTQ4NDQyfQ.5Rrle0iAnQnUvbqNnoIH0NbddcHT_PZBVvooKI4Fpto\",\"refreshToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNiY2FiYWIwLTYxMjctNGY1ZC1iMjA3LWUzYjI3OTQ1MmI2ZSIsImVtYWlsIjoic3VwZXJhZG1pbkByZWJsaWUuY29tIiwibmFtZSI6InN1cGVyIiwiZXhwaXJlZERheXMiOiIxZCIsImlhdCI6MTcxMDE0ODM4MiwiZXhwIjoxNzEwMjM0NzgyfQ.mYSNzMACnkSxVKf3bUcr1rdIWV8K1QewiSTmDYP_SC0\",\"user\":{\"firstName\":\"super\",\"lastName\":\"admin\",\"id\":\"cbcabab0-6127-4f5d-b207-e3b279452b6e\",\"email\":\"superadmin@reblie.com\"}}}}\n","timestamp":"2024-03-11T09:13:02.800Z"}

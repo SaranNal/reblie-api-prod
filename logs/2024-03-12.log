@@ -1,0 +1,4 @@
+{"level":"info","message":"Request <<< : GET / : localhost","timestamp":"2024-03-12T11:11:51.233Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-12T11:11:51.245Z"}
+{"level":"info","message":"Request <<< : GET /favicon.ico : localhost","timestamp":"2024-03-12T11:11:51.327Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-12T11:11:51.329Z"}

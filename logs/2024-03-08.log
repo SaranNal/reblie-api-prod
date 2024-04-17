@@ -1,0 +1,160 @@
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:20:18.281Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:20:18.292Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:30:11.817Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:30:11.827Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:30:13.088Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:30:13.093Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:30:19.902Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:30:19.912Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T09:30:28.320Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Login Success!\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBmZDRhNGQ1LTQ4Y2YtNGYwYS05Zjg0LTAwOTVmMWFkM2Q0YiIsImVtYWlsIjoiY2hpdGhpcmFpcGVydW1hbC5tQGtuYWNrZm9yZ2UuY29tIiwibmFtZSI6ImxlbyIsImV4cGlyZWREYXlzIjoiNWgiLCJpYXQiOjE3MDk4OTAyMjgsImV4cCI6MTcwOTkwODIyOH0.nDfSbBXmktlZPcX4lCpwVODZ35QPpCVzhKDxZ-khyBY\",\"refreshToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBmZDRhNGQ1LTQ4Y2YtNGYwYS05Zjg0LTAwOTVmMWFkM2Q0YiIsImVtYWlsIjoiY2hpdGhpcmFpcGVydW1hbC5tQGtuYWNrZm9yZ2UuY29tIiwibmFtZSI6ImxlbyIsImV4cGlyZWREYXlzIjoiMWQiLCJpYXQiOjE3MDk4OTAyMjgsImV4cCI6MTcwOTk3NjYyOH0.LjY82WZ5m8Hy-pXrmm1OT3dtxunRxgP7kGUehjDyN90\",\"user\":{\"firstName\":\"leo\",\"lastName\":\"Das\",\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"email\":\"chithiraiperumal.m@knackforge.com\"}}}}\n","timestamp":"2024-03-08T09:30:28.459Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:38:52.266Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:38:52.294Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:38:55.388Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:38:55.394Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:38:56.449Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:38:56.457Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:38:57.578Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:38:57.584Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T09:42:04.169Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Login Success!\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBmZDRhNGQ1LTQ4Y2YtNGYwYS05Zjg0LTAwOTVmMWFkM2Q0YiIsImVtYWlsIjoiY2hpdGhpcmFpcGVydW1hbC5tQGtuYWNrZm9yZ2UuY29tIiwibmFtZSI6ImxlbyIsImV4cGlyZWREYXlzIjoiMW0iLCJpYXQiOjE3MDk4OTA5MjQsImV4cCI6MTcwOTg5MDk4NH0.5c-EZ6Xs5xbAtYn3FPk3hS_OTp6cRWti-7vOa_xScCw\",\"refreshToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBmZDRhNGQ1LTQ4Y2YtNGYwYS05Zjg0LTAwOTVmMWFkM2Q0YiIsImVtYWlsIjoiY2hpdGhpcmFpcGVydW1hbC5tQGtuYWNrZm9yZ2UuY29tIiwibmFtZSI6ImxlbyIsImV4cGlyZWREYXlzIjoiMWQiLCJpYXQiOjE3MDk4OTA5MjQsImV4cCI6MTcwOTk3NzMyNH0.PHHWHY4KM0b9opI1iwB3pDg5whXpQN-dLH6sbF_yJME\",\"user\":{\"firstName\":\"leo\",\"lastName\":\"Das\",\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"email\":\"chithiraiperumal.m@knackforge.com\"}}}}\n","timestamp":"2024-03-08T09:42:04.325Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:42:15.000Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:42:15.017Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:42:19.165Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:42:19.173Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:42:20.172Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:42:20.178Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:42:21.178Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Fetched Successfully\",\"error\":false,\"code\":200,\"results\":{\"data\":{\"id\":\"0fd4a4d5-48cf-4f0a-9f84-0095f1ad3d4b\",\"firstName\":\"leo\",\"lastName\":\"Das\",\"email\":\"chithiraiperumal.m@knackforge.com\",\"token\":null}}}\n","timestamp":"2024-03-08T09:42:21.185Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:45:53.978Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:45:53.980Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:45:56.118Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:45:56.120Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:45:57.349Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:45:57.351Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:45:58.351Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:45:58.355Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:45:59.345Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:45:59.349Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:46:00.267Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:46:00.269Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:46:37.076Z"}
+{"level":"info","message":"Response >>> : undefined\n","timestamp":"2024-03-08T09:46:37.080Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:50:26.250Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:50:26.274Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:51:03.889Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:51:03.907Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:51:06.401Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:51:06.406Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:51:31.865Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:51:31.869Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:52:38.242Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:52:38.260Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:52:39.807Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:52:39.812Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:52:49.121Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:52:49.149Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:53:44.346Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:53:44.363Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:53:46.124Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:53:46.130Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:54:34.044Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:54:34.060Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:54:35.746Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:54:35.750Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:54:49.707Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:54:49.726Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:55:10.837Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:55:10.864Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:55:26.426Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Unauthorized\",\"code\":401,\"error\":true}\n","timestamp":"2024-03-08T09:55:26.446Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:56:03.773Z"}
+{"level":"info","message":"Response >>> : {\"error\":\"Custom unauthorized error message\"}\n","timestamp":"2024-03-08T09:56:03.800Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:56:54.949Z"}
+{"level":"info","message":"Response >>> : {\"error\":\"Custom unauthorized error message\"}\n","timestamp":"2024-03-08T09:56:54.967Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:56:56.171Z"}
+{"level":"info","message":"Response >>> : {\"error\":\"Custom unauthorized error message\"}\n","timestamp":"2024-03-08T09:56:56.176Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:56:57.306Z"}
+{"level":"info","message":"Response >>> : {\"error\":\"Custom unauthorized error message\"}\n","timestamp":"2024-03-08T09:56:57.311Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T09:57:07.639Z"}
+{"level":"info","message":"Response >>> : {\"error\":\"Custom unauthorized error message\"}\n","timestamp":"2024-03-08T09:57:07.641Z"}
+{"level":"info","message":"Request <<< : GET /user/user : localhost","timestamp":"2024-03-08T10:01:03.428Z"}
+{"level":"info","message":"Response >>> : {\"error\":\"access token expired\"}\n","timestamp":"2024-03-08T10:01:03.439Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:19:19.525Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:19:19.538Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:20:04.555Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"roles.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:20:04.567Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:27:39.678Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"roles.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:27:39.690Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:27:50.749Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"roles.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:27:50.761Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:28:02.041Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"roles.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:28:02.054Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:28:16.117Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:28:16.132Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:29:31.145Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:29:31.158Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:32:52.775Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:32:52.789Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:34:27.319Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:34:27.325Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:35:15.856Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:35:15.868Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:36:19.407Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:36:19.420Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:36:32.168Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:36:32.187Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:37:54.154Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:37:54.172Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:39:55.907Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:39:55.919Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:40:49.800Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:40:49.815Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:40:50.866Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:40:50.868Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:04.232Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:04.252Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:06.370Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:06.378Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:30.468Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:30.480Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:31.567Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:31.571Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:32.751Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Role.create is not a function\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:32.755Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:46.098Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:46.110Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:47.306Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:47.309Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:41:48.708Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:41:48.711Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:46:08.615Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:46:08.627Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:47:05.608Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:47:05.626Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:48:27.892Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:48:27.933Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:48:57.339Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:48:57.381Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:49:57.829Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:49:57.840Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:50:27.005Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Cannot read properties of undefined (reading 'create')\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T13:50:27.030Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T13:50:41.393Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T14:11:05.099Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Validation error\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T14:11:05.145Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T14:11:53.537Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"User is not defined\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T14:11:53.549Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T14:12:20.444Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Field 'deletedAt' doesn't have a default value\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T14:12:20.469Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T14:14:07.563Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Field 'deletedAt' doesn't have a default value\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T14:14:07.588Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T14:14:24.696Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Field 'deletedAt' doesn't have a default value\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T14:14:24.711Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T14:15:22.040Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T16:55:09.550Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T17:28:12.635Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"notNull Violation: users.fullName cannot be null\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T17:28:12.659Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T17:29:33.740Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"bcrypt is not defined\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-08T17:29:33.764Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-08T17:29:56.268Z"}

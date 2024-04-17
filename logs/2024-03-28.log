@@ -1,0 +1,44 @@
+{"level":"info","message":"Request <<< : GET / : localhost","timestamp":"2024-03-28T10:24:32.829Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-28T10:24:32.835Z"}
+{"level":"info","message":"Request <<< : GET /favicon.ico : localhost","timestamp":"2024-03-28T10:24:32.990Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-28T10:24:32.992Z"}
+{"level":"info","message":"Request <<< : GET / : localhost","timestamp":"2024-03-28T10:38:49.846Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-28T10:38:49.847Z"}
+{"level":"info","message":"Request <<< : GET /favicon.ico : localhost","timestamp":"2024-03-28T10:55:50.143Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-28T10:55:50.149Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T10:56:28.363Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T10:56:28.380Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T10:57:51.975Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T10:57:51.991Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T10:57:57.846Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T10:57:57.851Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T10:59:13.699Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T10:59:13.703Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:03:34.405Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:03:34.410Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:06:58.536Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:06:58.550Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:06:59.888Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:06:59.892Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:07:00.157Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:07:00.160Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:07:00.456Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:07:00.460Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:07:01.268Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:07:01.271Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:08:54.693Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:08:54.696Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:10:05.419Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:10:05.423Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:10:24.081Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:10:24.087Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:11:13.201Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:11:13.206Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T11:11:55.138Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T11:11:55.142Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T13:24:42.637Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T13:24:42.651Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T13:24:59.650Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T13:24:59.655Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-28T13:26:01.122Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"There is no user found with this email and password\",\"code\":404,\"error\":true}\n","timestamp":"2024-03-28T13:26:01.126Z"}

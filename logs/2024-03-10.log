@@ -1,0 +1,7 @@
+{"level":"info","message":"Request <<< : GET /auth/login : localhost","timestamp":"2024-03-10T17:48:25.628Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Requested url is not found\",\"code\":500,\"error\":true}\n","timestamp":"2024-03-10T17:48:25.642Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-10T17:49:08.305Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Validation errors\",\"error\":true,\"code\":422,\"errors\":[{\"type\":\"field\",\"msg\":\"Invalid value\",\"path\":\"password\",\"location\":\"body\"},{\"type\":\"field\",\"msg\":\"Invalid value\",\"path\":\"email\",\"location\":\"body\"}]}\n","timestamp":"2024-03-10T17:49:08.320Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-10T17:49:37.695Z"}
+{"level":"info","message":"Response >>> : {\"message\":\"Validation errors\",\"error\":true,\"code\":422,\"errors\":[{\"type\":\"field\",\"value\":\"ddqjqj@gmailcom\",\"msg\":\"Enter the valid email address\",\"path\":\"email\",\"location\":\"body\"}]}\n","timestamp":"2024-03-10T17:49:37.700Z"}
+{"level":"info","message":"Request <<< : POST /auth/login : localhost","timestamp":"2024-03-10T17:49:51.292Z"}
